@@ -21,6 +21,14 @@ textures = {
     '5' : pygame.image.load('bluemerald.png')
     }
 
+#......
+#UI PREVIEW
+#UI ADDED
+#UI FONTS FROM SYSTEM
+#UI IMPLEMENTED ACCTIONS AND REACTIONS
+#......
+
+
 class Raycaster(object):
     def __init__(self,screen):
         self.screen = screen
